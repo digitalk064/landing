@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 ## I'm still working on this 
 ## Welcome to GitHub Pages
 
